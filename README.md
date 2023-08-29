@@ -1,12 +1,18 @@
 # PengalamanBelajar
-Repository ini berisi pengalaman belajarku di Dicoding
 
-29 Agustus 2023
-Belajar Introduction to Github. (Progres 35%)
-* Belajar tentang apa aja yang ada di github
-* Belajar tentang membuat Repository
+Repository Ini Berisi Pengalaman Belajar di Dicoding
 
-15 Juni 2021
+
+**14 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
+
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+
+
+**15 Juni 2021**  
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
